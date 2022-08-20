@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomB2001
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, HTML and CSS
-- 📚 I´m studying Informations und Kommunikationstechnik at HTWK Leipzig
+- 🌱 I’m currently learning Java, HTML and CSS
 
 <!---
 TomB2001/TomB2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
