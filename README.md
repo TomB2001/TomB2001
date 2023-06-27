@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomB2001
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python 
 
