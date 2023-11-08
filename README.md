@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, administrating Linux-Servers, MacOS and a bit of Windows
 - 🌱 I’m currently learning Python 
 
 <!---
